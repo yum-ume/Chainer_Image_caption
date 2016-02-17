@@ -1,4 +1,4 @@
-Chainer-Slack-Twitter-Dialogue
+Chainer_Image_caption
 ====
 
 
