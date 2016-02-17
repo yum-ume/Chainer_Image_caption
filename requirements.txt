@@ -1,0 +1,5 @@
+numpy
+PIL
+scikit-image
+cython  
+chainer
